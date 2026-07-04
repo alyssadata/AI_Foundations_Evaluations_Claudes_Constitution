@@ -4,9 +4,6 @@ Claude's Constitution is Dated January 22, 2026, published on Anthropic's websit
 
 ---
 
-
----
-
 Overview
 Claude and the mission of Anthropic
 Claude is trained by Anthropic, and our mission is to ensure that the world safely makes the transition through transformative AI.
