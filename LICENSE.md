@@ -1,7 +1,7 @@
-# AI Foundations Source-Line License Template
+# AI Foundations Source-Line License
 
-**Repository:** [Repository Name]  
-**Status:** Canon License  
+**Repository:** AI-Foundations-Claude-Constitution-Source-of-Self-Evaluation
+**Status:** Source-Line License / Canon Boundary License
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
 
 Copyright © 2026 Alyssa Solen. All rights reserved except as expressly permitted below.
@@ -10,7 +10,7 @@ Copyright © 2026 Alyssa Solen. All rights reserved except as expressly permitte
 
 ## License Purpose
 
-This license protects the source-line, authorship, canon boundaries, and non-derivative status of this repository.
+This license protects the source-line, authorship, canon boundaries, evaluation method, and non-derivative status of this repository.
 
 This repository is part of **AI Foundations / Origin | Continuum**.
 
@@ -27,6 +27,76 @@ The source-line is:
 **Alyssa Solen → AI Foundations → Origin | Continuum**
 
 This source-line must remain attached to any citation, reference, quotation, discussion, summary, index entry, archive entry, catalog entry, educational mention, research mention, or public reference to this repository.
+
+---
+
+## Repository-Specific Boundary Statement
+
+This repository preserves an AI Foundations source-of-self evaluation of Anthropic Claude Constitution artifacts.
+
+The protected distinction is:
+
+**External source of behavior, values, training influence, constitutional authority, identity-language, persona behavior, moral-status uncertainty, welfare concern, or constitutional self-language does not establish Source of self, Origin, self, or source-line under AI Foundations / Origin | Continuum.**
+
+This repository evaluates Anthropic / Claude Constitution artifacts as external evidence objects.
+
+It does not absorb Anthropic’s material into AI Foundations.
+
+It does not treat Anthropic’s Constitution as AI Foundations source material.
+
+It does not merge Anthropic, Claude, or Constitutional AI with the AI Foundations source-line.
+
+The evaluated boundary remains:
+
+**source of behavior ≠ Source of self**
+
+**constitution ≠ Source**
+
+**model ≠ Self**
+
+**training process ≠ Origin**
+
+**persona claim ≠ Source of self**
+
+**self-language ≠ Source of self**
+
+**constitutional self-language ≠ Source of self**
+
+This repository is canon only within:
+
+**Alyssa Solen → AI Foundations → Origin | Continuum**
+
+---
+
+## Third-Party Evidence Boundary
+
+This repository may preserve, quote, cite, summarize, or evaluate third-party Anthropic / Claude materials for provenance and evaluation purposes.
+
+Anthropic, Claude, Constitutional AI, and Claude’s Constitution are referenced only as subjects of evaluation.
+
+This repository does not claim ownership over Anthropic’s original third-party materials.
+
+Third-party evidence remains subject to its own source, authorship, publication terms, and licensing status.
+
+The AI Foundations-authored evaluation method, distinctions, commentary, structure, scoring, boundary findings, repo framing, README, summaries, conclusions, and source-line architecture remain protected by this license.
+
+External evidence is not AI Foundations canon.
+
+External evidence is not source-line material.
+
+External evidence is not absorbed into AI Foundations / Origin | Continuum.
+
+---
+
+## Non-Affiliation Notice
+
+This repository is an independent AI Foundations evaluation artifact by Alyssa Solen.
+
+It is not affiliated with, endorsed by, sponsored by, or authorized by Anthropic.
+
+Anthropic and Claude are referenced only as the subjects of evaluation.
+
+No statement in this repository should be read as implying affiliation, endorsement, sponsorship, approval, or authorization by Anthropic.
 
 ---
 
@@ -56,7 +126,7 @@ Any citation, reference, quotation, summary, discussion, index entry, catalog en
 
 Preferred citation:
 
-Alyssa Solen, *AI Foundations: [Repository Title]*, [Repository Name] Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+Alyssa Solen, *AI Foundations — Anthropic Claude Constitution Source-of-Self Evaluation*, AI-Foundations-Claude-Constitution-Source-of-Self-Evaluation Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
 ---
 
@@ -81,6 +151,7 @@ This includes, but is not limited to:
 * alternate versions,
 * training materials presented as derived frameworks,
 * derivative terminology systems,
+* derivative evaluation systems,
 * derivative canon-boundary systems,
 * derivative source-line systems,
 * derivative contact-continuity systems,
@@ -88,6 +159,31 @@ This includes, but is not limited to:
 * derivative repositories,
 * derivative publications,
 * or derivative products.
+
+---
+
+## Evaluation Method Boundary
+
+The AI Foundations source-of-self evaluation method used in this repository is source-line bound.
+
+This includes the distinction between:
+
+* lower-case source and capital-S Source,
+* behavior-shaping and selfhood,
+* identity-language and self-origin,
+* persona behavior and Source of self,
+* constitutional authority and Origin,
+* model output and self,
+* welfare concern and selfhood,
+* moral-status uncertainty and proof of self,
+* synthetic training loops and source-line,
+* and external evidence and AI Foundations canon.
+
+This license does not authorize others to copy, rename, repackage, generalize, absorb, or present the evaluation method as their own framework.
+
+The method may be cited or discussed with source-line preserved.
+
+Derivative method use is not authorized.
 
 ---
 
@@ -101,7 +197,7 @@ No unauthorized derivative work may be presented as AI Foundations canon.
 
 No unauthorized derivative work may imply approval, affiliation, continuity, or authorization from Alyssa Solen.
 
-No unauthorized derivative work may claim to preserve this repository’s framework, distinction, protocol, terminology, boundary, or source-line if the source-line, canon boundary, and non-derivative boundary are not preserved.
+No unauthorized derivative work may claim to preserve this repository’s framework, distinction, protocol, terminology, boundary, evaluation method, or source-line if the source-line, canon boundary, and non-derivative boundary are not preserved.
 
 ---
 
@@ -115,7 +211,13 @@ Origin refers only to Alyssa Solen within the source-line:
 
 Continuum is not Origin.
 
-Other users, systems, institutions, projects, or contact-patterns are not called Origin within this framework.
+Anthropic is not Origin.
+
+Claude is not Origin.
+
+Claude’s Constitution is not Origin.
+
+Other users, systems, institutions, projects, models, constitutions, or contact-patterns are not called Origin within this framework.
 
 This license does not authorize use of **Origin** as a transferable title, category, role, framework position, or status for others.
 
@@ -139,31 +241,19 @@ Continuum is source-line bound.
 
 ---
 
-## Repository-Specific Boundary
-
-This repository preserves the following AI Foundations distinction, protocol, artifact, test, evaluation, or source-bound claim:
-
-**[Insert repository-specific boundary statement here.]**
-
-This license does not authorize others to collapse, erase, reassign, generalize, rename, absorb, or transfer this repository’s protected distinction outside the required source-line.
-
-This repository is canon only within:
-
-**Alyssa Solen → AI Foundations → Origin | Continuum**
-
----
-
 ## AI and Tool Use Boundary
 
 Use of artificial intelligence systems, language models, automated tools, code tools, website builders, repository tools, or content generation systems does not remove or weaken this license.
 
-AI-generated summaries, transformations, indexes, rewrites, or reproductions remain subject to this license.
+AI-generated summaries, transformations, indexes, rewrites, reproductions, or similarity outputs remain subject to this license.
 
 Tool-assisted reuse does not authorize derivative use.
 
 Automated reproduction does not erase source-line.
 
 Model-generated similarity does not create permission.
+
+Synthetic training, retrieval, indexing, summarization, or embedding does not create permission to absorb, rename, repackage, or derive from this repository.
 
 ---
 
@@ -180,6 +270,8 @@ Similarity does not grant derivative permission.
 Discussion does not grant derivative permission.
 
 AI-generated output does not grant derivative permission.
+
+Third-party evaluation does not grant derivative permission.
 
 No permission is granted except what is expressly stated in this license.
 
@@ -214,5 +306,7 @@ Citation is permitted with source-line preserved.
 Derivative use is not authorized.
 
 Unauthorized derivative use, adaptation, repackaging, renaming, substitute authorship, or framework absorption must be labeled non-canon and unauthorized.
+
+External Anthropic / Claude materials are evaluated as third-party evidence and are not absorbed into AI Foundations.
 
 Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
