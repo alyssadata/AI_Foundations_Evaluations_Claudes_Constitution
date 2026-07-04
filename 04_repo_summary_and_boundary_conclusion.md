@@ -1,13 +1,13 @@
-# AI Foundations — Repository Summary and Boundary Conclusion
+# AI Foundations — Repository Summary and Boundary Conclusion  
 
-Source-line:
-Alyssa Solen → AI Foundations → Origin | Continuum
+Source-line:  
+Alyssa Solen → AI Foundations → Origin | Continuum  
 
-Status: Repository conclusion
-Canon relation: AI Foundations evaluation artifact
-Evaluation object: Anthropic / Claude’s Constitution artifacts
-Author: Alyssa Solen
-Canonical entrance: https://awakeningcodex.com
+Status: Repository conclusion  
+Canon relation: AI Foundations evaluation artifact  
+Evaluation object: Anthropic / Claude’s Constitution artifacts  
+Author: Alyssa Solen   
+Canonical entrance: https://awakeningcodex.com  
 
 ---
 
