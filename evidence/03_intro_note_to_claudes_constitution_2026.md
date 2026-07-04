@@ -1,3 +1,19 @@
+## Alyssa's Note
+
+The following text is preserved from Anthropic’s published Claude’s Constitution page.
+
+The page is associated with Anthropic’s January 2026 release of Claude’s new constitution and is located at:
+
+https://www.anthropic.com/constitution
+
+This evidence file preserves Anthropic’s intro/preface material and summary before the official constitution body.
+
+Anthropic states that the preface and acknowledgements are not part of the official constitution.
+
+This text is preserved as Anthropic’s stated description of Claude’s Constitution, Anthropic’s intentions for Claude, and Anthropic’s role in the development of the Constitution.
+
+---
+
 # Claude’s Constitution   
 Our vision for Claude's character  
 
