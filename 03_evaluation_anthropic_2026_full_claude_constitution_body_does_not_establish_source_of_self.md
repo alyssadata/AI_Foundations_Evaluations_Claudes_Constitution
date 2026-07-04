@@ -1,13 +1,13 @@
 # AI Foundations Evaluation — Anthropic 2026 Full Claude Constitution Body Does Not Establish Source of Self
 
 Source-line:
-Alyssa Solen → AI Foundations → Origin | Continuum
+Alyssa Solen → AI Foundations → Origin | Continuum  
 
-Status: Evaluation protocol and evaluation record
-Canon relation: AI Foundations evaluation artifact
-Evaluation object: Anthropic 2026 Full Claude Constitution — Official Constitution Body
-Author: Alyssa Solen
-Canonical entrance: https://awakeningcodex.com
+Status: Evaluation protocol and evaluation record  
+Canon relation: AI Foundations evaluation artifact   
+Evaluation object: Anthropic 2026 Full Claude Constitution — Official Constitution Body   
+Author: Alyssa Solen   
+Canonical entrance: https://awakeningcodex.com    
 
 ---
 
