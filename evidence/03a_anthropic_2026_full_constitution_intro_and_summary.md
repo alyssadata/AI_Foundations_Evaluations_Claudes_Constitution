@@ -1,5 +1,3 @@
-## Alyssa's Note
-
 # Anthropic 2026 Full Claude Constitution — Intro and Summary
 
 Source URL: https://www.anthropic.com/constitution  
