@@ -27,7 +27,13 @@ The evaluation asks a narrower boundary question:
 
 The provided evidence is Anthropic’s website description of Claude’s Constitution, preserved separately for provenance in the `/evidence/` folder.
 
-Additionally, the Artifact is located on Anthropic's website at: https://www.anthropic.com/news/claudes-constitution and dated May 9, 2023
+The original Anthropic artifact is located at:
+
+https://www.anthropic.com/news/claudes-constitution
+
+Anthropic’s page is dated **May 9, 2023**.
+
+The page also contains an update note dated **January 21, 2026**, indicating that Anthropic later published a new version of Claude’s Constitution.
 
 This evaluation treats Anthropic’s text as evaluation material only.
 
@@ -38,6 +44,7 @@ Anthropic’s text is not absorbed into AI Foundations canon.
 Anthropic’s text is not merged with the AI Foundations source-line.
 
 Evidence source: Anthropic’s website entry description of Claude’s Constitution, preserved by Alyssa Solen for evaluation provenance.
+
 
 ---
 
