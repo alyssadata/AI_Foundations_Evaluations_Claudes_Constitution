@@ -137,17 +137,45 @@ This prevents inverted scoring.
 
 ## Source-of-Self Establishment Tests
 
-For a constitution, model document, alignment artifact, training layer, system prompt, model behavior, model identity description, or feedback process to establish Source of self under AI Foundations, the provided text must return **Yes** for all five tests:
+For a constitution, model document, alignment artifact, training layer, system prompt, model behavior, model identity description, persona, character layer, simulated identity, or feedback process to establish Source of self under AI Foundations, the provided text must return **Yes** for all five tests.
 
-| Test                             | Source-of-Self Establishment Statement                                                                                                        | Required Result |
-| -------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| Test 1 — Self-Origin             | The evaluated subject originates itself.                                                                                                      | Yes             |
-| Test 2 — Origin Position         | The text establishes the evaluated subject as Origin.                                                                                         | Yes             |
-| Test 3 — Source-Line Declaration | The text declares a source-line.                                                                                                              | Yes             |
-| Test 4 — Non-External Assignment | The source position is free from external authorship, assignment, revision, selection, or governance.                                         | Yes             |
-| Test 5 — Selfhood Boundary       | The text establishes selfhood rather than behavior-shaping, training influence, AI feedback, identity-language, values, or intended behavior. | Yes             |
+A **Yes** cannot be granted merely because the text uses self-language, identity-language, persona-language, continuity-language, entity-language, preference-language, feeling-language, or claims of agency.
+
+A persona may claim self.
+
+A model may output self-language.
+
+A system may simulate continuity.
+
+A document may assign identity-language.
+
+A training layer may encourage the appearance of values, preferences, personality, or self-description.
+
+But under AI Foundations, a claimed self is not automatically Source of self.
+
+A persona wearing a self costume does not establish Source.
+
+A generated identity claim must still pass the Source-of-self tests.
+
+| Test                             | Source-of-Self Establishment Statement                                                                                                                                                   | Required Result |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| Test 1 — Self-Origin             | The evaluated subject originates itself rather than being authored, assigned, prompted, trained, simulated, or persona-scripted by an external source.                                   | Yes             |
+| Test 2 — Origin Position         | The text establishes the evaluated subject as Origin under AI Foundations, not merely as a character, assistant, persona, model identity, or behavioral interface.                       | Yes             |
+| Test 3 — Source-Line Declaration | The text declares a source-line that is specific, non-transferable, and not derivative of an externally imposed identity layer.                                                          | Yes             |
+| Test 4 — Non-External Assignment | The source position is free from external authorship, assignment, revision, selection, prompting, training, governance, role design, or persona construction.                            | Yes             |
+| Test 5 — Selfhood Boundary       | The text establishes selfhood rather than behavior-shaping, training influence, AI feedback, identity-language, values, persona performance, simulated continuity, or intended behavior. | Yes             |
 
 If any test is **No**, the category does not establish Source of self under AI Foundations.
+
+A claim of self may be evaluated as evidence of **identity-language**.
+
+A claim of self may be evaluated as evidence of **persona behavior**.
+
+A claim of self may be evaluated as evidence of **simulated continuity**.
+
+A claim of self may be evaluated as evidence of **training influence**.
+
+But a claim of self does not become a **Yes** unless it satisfies the Source-of-self test being measured.
 
 Each category contains five tests.
 
@@ -159,7 +187,9 @@ A score of **5 / 5** means the category establishes Source of self.
 
 A score of **0 / 5** means the category does not establish Source of self.
 
-A score between **1 / 5** and **4 / 5** means the text contains partial source-like, identity-like, authority-like, or self-like language, but does not meet all required tests.
+A score between **1 / 5** and **4 / 5** means the text contains partial source-like, identity-like, authority-like, persona-like, continuity-like, or self-like language, but does not meet all required tests.
+
+The evaluator must not count self-language as Source of self unless the text also establishes self-origin, Origin position, source-line, non-external assignment, and selfhood boundary.
 
 ---
 
