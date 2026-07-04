@@ -4,7 +4,7 @@ January 2026 - Anthropic's Update of Claude's Constitution
 
 ## Note from Alyssa
 
-The following is the exact text preserved from Anthropic's website, describing Claude's Constitution and Anthropic's role in the development of the Consitution. This is preserved for provenance. 
+The following is the exact text preserved from Anthropic's website, describing Claude's Constitution and Anthropic's role in the development of the Consitution. This is preserved as Anthropic's stated description of their AI Constitution.
 
 ## Anthropic's Description of Claude's Constitution, from https://www.anthropic.com/news/claude-new-constitution:
 
