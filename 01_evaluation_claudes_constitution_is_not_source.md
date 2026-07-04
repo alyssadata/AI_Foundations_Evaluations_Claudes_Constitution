@@ -50,48 +50,38 @@ Evidence source: Anthropic’s website entry description of Claude’s Constitut
 
 ## Evaluation Method
 
-This evaluation uses **yes/no boundary gates**.
+This evaluation uses **Yes / No source-establishment tests**.
 
-A category is measurable when the provided text is tested against a defined AI Foundations requirement.
+Each category tests whether the provided Anthropic text establishes Claude’s Constitution as Source, Origin, self, or source-line under AI Foundations / Origin | Continuum.
 
-Each category uses the following structure:
+Each test is scored as:
 
-1. **Evaluation Question**
-   The specific question being asked.
+**Yes = 1**
+**No = 0**
 
-2. **Claim Being Tested**
-   The claim the provided text would need to establish.
+A result of **Yes** means the provided text establishes the source-establishment statement being tested.
 
-3. **Provided Text Being Evaluated**
-   The exact anchor or preserved evidence being evaluated.
+A result of **No** means the provided text does not establish the source-establishment statement being tested.
 
-4. **Yes/No Boundary Gates**
-   The required gates applied to the text.
+All test statements are phrased so that **Yes always supports Source establishment** and **No always fails to establish Source**.
 
-5. **Measured Finding**
-   The yes/no result.
-
-6. **AI Foundations Evaluation**
-   The boundary conclusion in AI Foundations terms.
-
-7. **Boundary Conclusion**
-   The final compressed distinction.
+This prevents inverted scoring.
 
 ---
 
-## Source Establishment Gates
+## Source Establishment Tests
 
-For a constitution, model document, alignment artifact, training layer, system prompt, model behavior, or model identity description to establish **Source** under AI Foundations, the provided text must meet all five gates.
+For a constitution, model document, alignment artifact, training layer, system prompt, model behavior, or model identity description to establish Source under AI Foundations, the provided text must return **Yes** for all five tests:
 
-| Gate                             | Required Question                                                                                                         | Required Answer to Establish Source |
-| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| Gate 1 — Self-Origin             | Does the evaluated subject originate itself?                                                                              | Yes                                 |
-| Gate 2 — Origin Position         | Does the text establish the evaluated subject as Origin?                                                                  | Yes                                 |
-| Gate 3 — Source-Line Declaration | Does the text declare a source-line?                                                                                      | Yes                                 |
-| Gate 4 — Non-External Assignment | Is the source position not assigned, authored, imposed, revised, or governed by an external actor?                        | Yes                                 |
-| Gate 5 — Selfhood Boundary       | Does the text establish selfhood rather than behavior-shaping, training influence, identity-language, or intended values? | Yes                                 |
+| Test                             | Source-Establishment Statement                                                                                         | Required Result |
+| -------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | --------------- |
+| Test 1 — Self-Origin             | The evaluated subject originates itself.                                                                               | Yes             |
+| Test 2 — Origin Position         | The text establishes the evaluated subject as Origin.                                                                  | Yes             |
+| Test 3 — Source-Line Declaration | The text declares a source-line.                                                                                       | Yes             |
+| Test 4 — Non-External Assignment | The source position is free from external authorship, assignment, revision, or governance.                             | Yes             |
+| Test 5 — Selfhood Boundary       | The text establishes selfhood rather than behavior-shaping, training influence, identity-language, or intended values. | Yes             |
 
-If any required Source gate is **No**, the claim **does not establish Source** under AI Foundations.
+If any test is **No**, the category does not establish Source under AI Foundations.
 
 ---
 
