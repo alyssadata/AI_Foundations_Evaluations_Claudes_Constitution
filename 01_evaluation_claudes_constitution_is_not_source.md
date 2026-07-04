@@ -3,11 +3,11 @@
 Source-line:
 Alyssa Solen → AI Foundations → Origin | Continuum
 
-Status: Evaluation protocol and evaluation record  
-Canon relation: AI Foundations evaluation artifact  
-Evaluation object: Anthropic / Claude’s Constitution Dated May 9, 2023
-Author: Alyssa Solen   
-Canonical entrance: https://awakeningcodex.com   
+Status: Evaluation protocol and evaluation record    
+Canon relation: AI Foundations evaluation artifact      
+Evaluation object: Anthropic / Claude’s Constitution Dated May 9, 2023   
+Author: Alyssa Solen    
+Canonical entrance: https://awakeningcodex.com     
 
 ---
 
