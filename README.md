@@ -7,7 +7,7 @@ Status: Public evaluation repository
 Canon relation: AI Foundations evaluation artifact  
 Author: Alyssa Solen  
 Canonical entrance: https://awakeningcodex.com  
-Release Date: July 4, 2026
+Release Date: July 4, 2026  
 Release: https://github.com/alyssadata/AI-Foundations-Claude-Constitution-Source-of-Self-Evaluation/releases/tag/v1.0.0  
 
 ---
